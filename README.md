@@ -144,7 +144,7 @@ This project is open source and available under the MIT License.
 
 ## Author
 
-Developed by Mehta
+Developed by Chandan Kumar Yadav
 
 ## Support
 
